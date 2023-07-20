@@ -5,7 +5,7 @@ import * as Yup from 'yup';
 import { getContacts } from 'redux/selectors';
 // Redux actions
 import { addContact } from 'redux/contactsSlice';
-// Styled
+// Style
 import {
   AddContactForm,
   Label,

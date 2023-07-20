@@ -5,7 +5,7 @@ import { ContactList } from '../ContactList/ContactList';
 import { Filter } from '../Filter/Filter';
 // Redux
 import { getContacts } from 'redux/selectors';
-// Styled
+// Style
 import {
   Container,
   Section,

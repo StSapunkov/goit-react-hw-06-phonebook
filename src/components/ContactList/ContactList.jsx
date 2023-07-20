@@ -5,7 +5,7 @@ import { ContactListItem } from 'components/ContactListItem/ContactListItem';
 import { getContacts, getFilter } from 'redux/selectors';
 // Redux actions
 import { removeContact } from 'redux/contactsSlice';
-// Styled
+// Style
 import { List } from './ContactList.styled';
 
 export const ContactList = () => {
